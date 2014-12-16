@@ -8,7 +8,7 @@
 
 ###Howto :
 + Fill the MySQL and PostgreSQL connection infos below
-+ Then just run "php my2pg.php" from your termunal
++ Then just run "php mysql2postgres.php" from your termunal
 
 
 ##### Version 1.2 - February 6th 2014
